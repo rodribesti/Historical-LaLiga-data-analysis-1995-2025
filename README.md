@@ -114,8 +114,21 @@ El resultado del test realizado para el ejercicio 6 fue:
 
 Este proyecto se distribuye bajo la licencia MIT. Consulta el fichero [LICENSE](LICENSE) para más detalles.
 
+## Comandos utilizados para repositorio GitHub
 
+#### 1. Inicializar el repositorio (si no estaba iniciado)
+git init
 
+#### 2. Añadir todos los archivos al staging area
+git add .
 
+#### 3. Crear el primer commit
 
+#### 4. Añadir el repositorio remoto de GitHub
 
+git remote add origin git@github.com:rodribesti/Historical-LaLiga-data-analysis-1995-2025.git
+
+#### 5. Subir el proyecto a GitHub
+git push -u origin main
+
+Linke del repositorio: `https://github.com/rodribesti/Historical-LaLiga-data-analysis-1995-2025`
